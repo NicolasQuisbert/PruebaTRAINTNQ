@@ -1,0 +1,13 @@
+.Etiqueta {
+    box-sizing: content-box;
+    width: 20%;
+}
+.carousel-item img{
+    filter: brightness(50%)
+}
+.Boton{
+    background-color: rgb(39, 224, 64);
+}
+.Footer{
+    background-color: rgb(28, 56, 70);
+}
